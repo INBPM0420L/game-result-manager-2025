@@ -3,6 +3,10 @@ game-result-manager-2025
 
 A library to store and retrieve the results of the games in your homework projects. 
 
+## Documentation
+
+* [Javadoc](https://inbpm0420l.github.io/game-result-manager-2025/javadoc/)
+
 ## Download
 
 Add the following dependency to your pom.xml file:
