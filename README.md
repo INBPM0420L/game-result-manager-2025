@@ -5,7 +5,7 @@ A library to store and retrieve the results of the games in your homework projec
 
 ## Documentation
 
-* [Javadoc](https://inbpm0420l.github.io/game-result-manager-2025/javadoc/)
+* [Javadoc](https://inbpm0420l.github.io/game-result-manager-2025/)
 
 ## Download
 
