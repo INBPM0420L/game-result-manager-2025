@@ -26,7 +26,7 @@ The artifact can be downloaded from [GitHub Packages](https://docs.github.com/en
 <repositories>
     <repository>
         <id>github</id>
-            <url>https://maven.pkg.github.com/INBPM0420L/game-result-manager-2025</url>
+        <url>https://maven.pkg.github.com/INBPM0420L/game-result-manager-2025</url>
     </repository>
 </repositories>
 ```
